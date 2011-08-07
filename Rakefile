@@ -12,12 +12,12 @@ task :index do
 	c.close_log
 end
 
-desc 'Download games.'
+desc 'Download games. For example rake download INDEX=20110807120722.'
 task :download do
 	d = AbDownloader.new
 	d.dryrun = false
 	d.uri = 'http://www.abandonia.com/'
-	d.index = "index_#{ ENV['index'] }.json"
+	d.index = "index_#{ ENV['INDEX'] }.json"
 	d.open_log
 	d.download
 	d.close_log
