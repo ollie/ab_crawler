@@ -77,7 +77,7 @@ class AbDownloader
             next
           end
 
-          output_file_name = saveable_file_name game_name
+          output_file_name = AbDownloader.saveable_file_name game_name
           output_file_path = File.join category_path, output_file_name
 
           if File.exist?( output_file_path ) and File.size( output_file_path ) != 0

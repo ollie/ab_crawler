@@ -27,7 +27,7 @@ task :download do
   d.close_log
 end
 
-desc 'Find duplicates.'
+desc 'Find duplicates and remove them, use DRYRUN=0 to really delete.'
 task :duplicates do
   all_game_paths = []
 
