@@ -1,3 +1,5 @@
 .rvmrc
 /games/**/
+/games/*.log
+/indexes/*.log
 /tmp/
