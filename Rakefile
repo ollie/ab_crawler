@@ -1,12 +1,9 @@
 require './lib/ab_crawler'
 require './lib/ab_downloader'
 require 'fileutils'
+require 'rainbow'
 
-RED = "\e[0;31m"
-GREEN = "\e[0;32m"
-RESET = "\e[0m"
-
-desc 'Download games index.'
+desc 'Create new JSON index file and save it to ./indexes/index_YYYYMMDDHHMMSS.json.'
 task :index do
   c = AbCrawler.new
   c.dryrun = false
@@ -16,7 +13,7 @@ task :index do
   c.close_log
 end
 
-desc 'Download games, for example rake download INDEX=20110807120722.'
+desc "Downloads games that aren't already downloaded, for example rake download INDEX=20110807120722."
 task :download do
   d = AbDownloader.new
   d.dryrun = false
@@ -63,9 +60,9 @@ task :duplicates do
       puts '-' * line.length
       stat[1].each do |game_path|
         if all_game_paths.include? game_path
-          puts "#{ GREEN }#{ game_path }#{ RESET }"
+          puts game_path.color(:green)
         else
-          puts "#{ RED }#{ game_path }#{ RESET }"
+          puts game_path.color(:red)
           if ENV['DRYRUN'] == '0'
             FileUtils.rm game_path, :verbose => true
           else
