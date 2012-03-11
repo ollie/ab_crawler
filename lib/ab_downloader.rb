@@ -15,7 +15,7 @@ class AbDownloader
     @interrupted = false
     @now = Time.now.strftime '%Y%m%d%H%M%S'
     @log_path = File.join '.', 'games', "#{ @now }.log"
-    @waiting_interval = 1..5
+    @waiting_interval = 3..10
     @game_download_selector = 'a[href^="http://files.abandonia.com/download.php"]'
     detect_interruption
 

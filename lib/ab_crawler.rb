@@ -33,7 +33,7 @@ class AbCrawler
     @now = Time.now.strftime '%Y%m%d%H%M%S'
     @log_path = File.join '.', 'indexes', "index_#{ @now }.log"
     @index_path = File.join '.', 'indexes', "index_#{ @now }.json"
-    @waiting_interval = 1..3
+    @waiting_interval = 3..10
 
     @categories = {}
     @categories_selctor = '#menu--296 ul li:not(.menu-path-game-all) a'
