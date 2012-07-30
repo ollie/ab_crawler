@@ -36,7 +36,7 @@ class AbCrawler
     @waiting_interval = 3..10
 
     @categories = {}
-    @categories_selctor = '#menu--296 ul li:not(.menu-path-game-all) a'
+    @categories_selctor = '#menu--300 ul li:not(.menu-path-game-all) a'
     @games_selector = '.gamelist .title_beige a'
     @pager_next_selector = '#pager .pager-list .pager-current + a'
     @game_get_it_selector = 'a[href^="/en/downloadgame"]'
