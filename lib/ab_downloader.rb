@@ -16,7 +16,6 @@ class AbDownloader
     @now = Time.now.strftime '%Y%m%d%H%M%S'
     @log_path = File.join '.', 'games', "#{ @now }.log"
     @waiting_interval = 3..10
-    @game_download_selector = 'a[href^="http://files.abandonia.com/download.php"]'
     detect_interruption
 
     @skipped_games = {}
@@ -61,6 +60,11 @@ class AbDownloader
       "#{ game_name.gsub /[^a-z0-9]+/i, '-' }.zip"
     end
 
+    def parse_download_href
+      matches = @page.body.match( /window\.open\("(http:\/\/files\.abandonia\.com\/download\.php[^"]+)"/ )
+      matches[1].gsub('&amp;', '&') if matches[1].present?
+    end
+
     def download_games
       @categories.each do |category_name, category_options|
         category_path = File.join( '.', 'games', category_name )
@@ -89,17 +93,15 @@ class AbDownloader
 
           unless @dryrun
             @page = @agent.get URI.parse game_options['download_href']
-            a = @page.search(@game_download_selector).first
+            download_href = parse_download_href
 
-            if a.nil?
+            unless download_href
               log "Cannot download #{ game_name }"
               next
             end
 
-            download_path = a.attribute('href').value.strip
-
             File.open( output_file_path, 'wb' ) do |file|
-              file.write @agent.get( download_path ).body
+              file.write @agent.get( download_href ).body
             end
           else
             FileUtils.touch output_file_path
