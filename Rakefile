@@ -1,10 +1,9 @@
-require 'bundler/setup'
+require 'bundler'
+Bundler.require
 
 require './lib/ab_crawler'
 require './lib/ab_downloader'
 require 'fileutils'
-require 'rainbow'
-# require 'pry'
 
 desc 'Create new JSON index file and save it to ./indexes/index_YYYYMMDDHHMMSS.json.'
 task :index do

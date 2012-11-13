@@ -1,7 +1,5 @@
 require './lib/object'
 require './lib/extension'
-require 'rubygems'
-require 'mechanize'
 require 'json'
 require 'fileutils'
 require 'pp'
