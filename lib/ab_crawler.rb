@@ -18,7 +18,7 @@ require 'pp'
 # Unsorted     3      43
 # ----------------------
 # Total       71    1303
-# 
+#
 # 1 + 71 + 1303 * 3 = 3981 requests
 # 3981 * 2 = 7962 s = 2:12:42s
 
@@ -27,20 +27,20 @@ class AbCrawler
   attr_accessor :dryrun
 
   def initialize
-    @dryrun = true
-    @now = Time.now.strftime '%Y%m%d%H%M%S'
-    @log_path = File.join '.', 'indexes', "index_#{ @now }.log"
-    @index_path = File.join '.', 'indexes', "index_#{ @now }.json"
+    @dryrun           = true
+    @now              = Time.now.strftime '%Y%m%d%H%M%S'
+    @log_path         = File.join '.', 'indexes', "index_#{ @now }.log"
+    @index_path       = File.join '.', 'indexes', "index_#{ @now }.json"
     @waiting_interval = 3..10
 
-    @categories = {}
-    @categories_selctor = '#menu--300 ul li:not(.menu-path-game-all) a'
-    @games_selector = '.gamelist .title_beige a'
-    @pager_next_selector = '#pager .pager-list .pager-current + a'
+    @categories           = {}
+    @categories_selctor   = '#menu--313 ul li:not(.menu-path-game-all) a'
+    @games_selector       = '.gamelist .title_beige a'
+    @pager_next_selector  = '#pager .pager-list .pager-current + a'
     @game_get_it_selector = 'a[href^="/en/downloadgame"]'
-    @agent = Mechanize.new
-    @agent.open_timeout = 600
-    @agent.read_timeout = 600
+    @agent                = Mechanize.new
+    @agent.open_timeout   = 600
+    @agent.read_timeout   = 600
   end
 
   def uri
