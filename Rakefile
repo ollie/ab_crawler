@@ -62,9 +62,9 @@ task :duplicates do
       puts '-' * line.length
       stat[1].each do |game_path|
         if all_game_paths.include? game_path
-          puts "#{ game_path } (#{ File.size game_path } B)".color(:green)
+          puts Rainbow("#{ game_path } (#{ File.size game_path } B)").green
         else
-          puts "#{ game_path } (#{ File.size game_path } B)".color(:red)
+          puts Rainbow("#{ game_path } (#{ File.size game_path } B)").red
           if ENV['DRYRUN'] == '0'
             FileUtils.rm game_path, :verbose => true
           else
