@@ -28,9 +28,9 @@ class AbCrawler
 
   def initialize
     @dryrun           = true
-    @now              = Time.now.strftime '%Y%m%d%H%M%S'
-    @log_path         = File.join '.', 'indexes', "index_#{ @now }.log"
-    @index_path       = File.join '.', 'indexes', "index_#{ @now }.json"
+    @now              = Time.now.strftime('%Y%m%d%H%M%S')
+    @log_path         = File.join('.', 'indexes', "index_#{ @now }.log")
+    @index_path       = File.join('.', 'indexes', "index_#{ @now }.json")
     @waiting_interval = 3..10
 
     @categories           = {}
@@ -47,8 +47,8 @@ class AbCrawler
     @uri.to_s
   end
 
-  def uri=( value )
-    @uri = URI.parse value
+  def uri=(value)
+    @uri = URI.parse(value)
   end
 
   def crawl
@@ -62,67 +62,67 @@ class AbCrawler
 
   private
 
-    def find_categories
-      headline 'Finding categories'
-      @page = @agent.get @uri
-      @page.search(@categories_selctor).each do |a|
-        next if @categories.size == 1 if @dryrun
-        key = a.text.strip
-        next if key.blank? or a.attribute('href').blank?
-        @categories[key] ||= {}
-        @categories[key][:href] = make_uri a.attribute('href').value.strip
-      end
-      log "Found #{ @categories.keys.join ', ' }"
+  def find_categories
+    headline 'Finding categories'
+    @page = @agent.get(@uri)
+    @page.search(@categories_selctor).each do |a|
+      next if @categories.size == 1 if @dryrun
+      key = a.text.strip
+      next if key.blank? || a.attribute('href').blank?
+      @categories[key] ||= {}
+      @categories[key][:href] = make_uri(a.attribute('href').value.strip)
     end
+    log "Found #{ @categories.keys.join ', ' }"
+  end
 
-    def find_games
-      @categories.each do |category_name, category_options|
-        category_options[:games] = find_games_on_this_page category_options[:href]
-      end
+  def find_games
+    @categories.each do |_category_name, category_options|
+      category_options[:games] = find_games_on_this_page(category_options[:href])
     end
+  end
 
-    def find_games_on_this_page( uri, games = {} )
-      @page = @agent.get uri
-      log @page.uri.to_s
-      @page.search(@games_selector).each do |a|
-        key = a.text.strip
-        next if key.blank? or a.attribute('href').blank?
-        games[key] ||= {}
-        games[key][:href] = make_uri a.attribute('href').value.strip
-      end
-      uri = find_next_page
-      wait
-      return games if uri.blank? or @dryrun
-      find_games_on_this_page uri, games
+  def find_games_on_this_page(uri, games = {})
+    @page = @agent.get(uri)
+    log @page.uri.to_s
+    @page.search(@games_selector).each do |a|
+      key = a.text.strip
+      next if key.blank? || a.attribute('href').blank?
+      games[key] ||= {}
+      games[key][:href] = make_uri(a.attribute('href').value.strip)
     end
+    uri = find_next_page
+    wait
+    return games if uri.blank? || @dryrun
+    find_games_on_this_page(uri, games)
+  end
 
-    def find_next_page
-      a = @page.search(@pager_next_selector).first
-      return if a.nil?
-      make_uri a.attribute('href').value.strip
-    end
+  def find_next_page
+    a = @page.search(@pager_next_selector).first
+    return if a.nil?
+    make_uri a.attribute('href').value.strip
+  end
 
-    def find_download_links
-      @categories.each do |category_name, category_options|
-        category_options[:games].each do |game_name, game_options|
-          @page = @agent.get game_options[:href]
-          log @page.uri.to_s
-          a = @page.search(@game_get_it_selector).first
+  def find_download_links
+    @categories.each do |_category_name, category_options|
+      category_options[:games].each do |game_name, game_options|
+        @page = @agent.get(game_options[:href])
+        log @page.uri.to_s
+        a = @page.search(@game_get_it_selector).first
+        wait
+        if a.nil?
+          log "Cannot download #{ game_name }"
           wait
-          if a.nil?
-            log "Cannot download #{ game_name }"
-            wait
-            next
-          end
-          game_options[:download_href] = make_uri a.attribute('href').value.strip
+          next
         end
+        game_options[:download_href] = make_uri(a.attribute('href').value.strip)
       end
     end
+  end
 
-    def save_to_file
-      File.open( @index_path, 'w' ) do |file|
-        file << @categories.to_json
-        log "Saved to #{ @index_path }"
-      end
+  def save_to_file
+    File.open(@index_path, 'w') do |file|
+      file << @categories.to_json
+      log "Saved to #{ @index_path }"
     end
+  end
 end
