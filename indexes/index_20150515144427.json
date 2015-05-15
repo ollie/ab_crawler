@@ -2,6 +2,11 @@
   "Action":{
     "url":"http://www.abandonia.com/en/game/Action",
     "games":{
+      "007 - A View to Kill":{
+        "url":"http://www.abandonia.com/en/games/29739/007+-+A+View+to+Kill.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/29739",
+        "downloadable":true
+      },
       "007 - Licence to Kill":{
         "url":"http://www.abandonia.com/en/games/24163/007+-+Licence+to+Kill.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/24163",
@@ -25,11 +30,6 @@
       "Abuse":{
         "url":"http://www.abandonia.com/en/games/97/Abuse.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/97",
-        "downloadable":true
-      },
-      "ACE: Air Combat Emulator":{
-        "url":"http://www.abandonia.com/en/games/29768/ACE%3A+Air+Combat+Emulator.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/29768",
         "downloadable":true
       },
       "Action Fighter":{
@@ -103,6 +103,11 @@
       "Amazing Spider-Man, The":{
         "url":"http://www.abandonia.com/en/games/542/Amazing+Spider-Man%2C+The.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/542",
+        "downloadable":true
+      },
+      "Amulet Of Yendor":{
+        "url":"http://www.abandonia.com/en/games/966/Amulet+Of+Yendor.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/966",
         "downloadable":true
       },
       "Antarctic Adventure":{
@@ -217,8 +222,7 @@
       },
       "Battlezone":{
         "url":"http://www.abandonia.com/en/games/26459/Battlezone.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/26459",
-        "downloadable":true
+        "downloadable":false
       },
       "BCs Quest for Tires":{
         "url":"http://www.abandonia.com/en/games/875/BCs+Quest+for+Tires.html",
@@ -264,6 +268,11 @@
         "url":"http://www.abandonia.com/en/games/103/Blood.html",
         "downloadable":false
       },
+      "Blood and Magic":{
+        "url":"http://www.abandonia.com/en/games/28817/Blood+and+Magic.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/28817",
+        "downloadable":true
+      },
       "Blues Brothers - Jukebox Adventure, The":{
         "url":"http://www.abandonia.com/en/games/163/Blues+Brothers+-+Jukebox+Adventure%2C+The.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/163",
@@ -281,6 +290,11 @@
       "Bouncing Babies":{
         "url":"http://www.abandonia.com/en/games/164/Bouncing+Babies.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/164",
+        "downloadable":true
+      },
+      "Bram Stokers Dracula":{
+        "url":"http://www.abandonia.com/en/games/1004/Bram+Stokers+Dracula.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/1004",
         "downloadable":true
       },
       "Bruce Lee":{
@@ -334,8 +348,7 @@
       },
       "Cannon Fodder 2":{
         "url":"http://www.abandonia.com/en/games/80/Cannon+Fodder+2.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/80",
-        "downloadable":true
+        "downloadable":false
       },
       "Captain Bible in the Dome of Darkness":{
         "url":"http://www.abandonia.com/en/games/26398/Captain+Bible+in+the+Dome+of+Darkness.html",
@@ -355,8 +368,17 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/816",
         "downloadable":true
       },
+      "Carnage":{
+        "url":"http://www.abandonia.com/en/games/28047/Carnage.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/28047",
+        "downloadable":true
+      },
       "Castle Wolfenstein":{
         "url":"http://www.abandonia.com/en/games/390/Castle+Wolfenstein.html",
+        "downloadable":false
+      },
+      "Castles":{
+        "url":"http://www.abandonia.com/en/games/402/Castles.html",
         "downloadable":false
       },
       "Castlevania":{
@@ -376,12 +398,16 @@
       },
       "Chaos Engine, The":{
         "url":"http://www.abandonia.com/en/games/162/Chaos+Engine%2C+The.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/162",
-        "downloadable":true
+        "downloadable":false
       },
       "Chasm - The Rift":{
         "url":"http://www.abandonia.com/en/games/26182/Chasm+-+The+Rift.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/26182",
+        "downloadable":true
+      },
+      "Christmas Matchup!":{
+        "url":"http://www.abandonia.com/en/games/24466/Christmas+Matchup%21.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/24466",
         "downloadable":true
       },
       "Claw":{
@@ -441,6 +467,11 @@
         "url":"http://www.abandonia.com/en/games/196/Crusader+-+No+Remorse.html",
         "downloadable":false
       },
+      "Crush! Deluxe":{
+        "url":"http://www.abandonia.com/en/games/29605/Crush%21+Deluxe.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/29605",
+        "downloadable":true
+      },
       "Cyberlaw":{
         "url":"http://www.abandonia.com/en/games/23421/Cyberlaw.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/23421",
@@ -474,6 +505,15 @@
       "Dark Ages - Prince of Destiny":{
         "url":"http://www.abandonia.com/en/games/578/Dark+Ages+-+Prince+of+Destiny.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/578",
+        "downloadable":true
+      },
+      "Day of the Tentacle":{
+        "url":"http://www.abandonia.com/en/games/17/Day+of+the+Tentacle.html",
+        "downloadable":false
+      },
+      "Death Drome":{
+        "url":"http://www.abandonia.com/en/games/30667/Death+Drome.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30667",
         "downloadable":true
       },
       "Death Sword":{
@@ -535,6 +575,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/949",
         "downloadable":true
       },
+      "Dinosaur Safari":{
+        "url":"http://www.abandonia.com/en/games/939/Dinosaur+Safari.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/939",
+        "downloadable":true
+      },
       "Dizzy - Bubble":{
         "url":"http://www.abandonia.com/en/games/303/Dizzy+-+Bubble.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/303",
@@ -583,14 +628,14 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/27258",
         "downloadable":true
       },
-      "Dragon's Lair - Escape from Singe's Castle":{
-        "url":"http://www.abandonia.com/en/games/24645/Dragon%27s+Lair+-+Escape+from+Singe%27s+Castle.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/24645",
-        "downloadable":true
-      },
       "Dragons - A Challenge in Chivalry":{
         "url":"http://www.abandonia.com/en/games/3661/Dragons+-+A+Challenge+in+Chivalry.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/3661",
+        "downloadable":true
+      },
+      "Dragons Lair - Escape from Singes Castle":{
+        "url":"http://www.abandonia.com/en/games/24645/Dragons+Lair+-+Escape+from+Singes+Castle.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/24645",
         "downloadable":true
       },
       "DStroy":{
@@ -621,10 +666,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/866",
         "downloadable":true
       },
-      "Elder Scrolls - Arena, The":{
-        "url":"http://www.abandonia.com/en/games/195/Elder+Scrolls+-+Arena%2C+The.html",
-        "downloadable":false
-      },
       "Electranoid":{
         "url":"http://www.abandonia.com/en/games/1055/Electranoid.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/1055",
@@ -633,6 +674,11 @@
       "Elf":{
         "url":"http://www.abandonia.com/en/games/927/Elf.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/927",
+        "downloadable":true
+      },
+      "Emerald Hunt":{
+        "url":"http://www.abandonia.com/en/games/31445/Emerald+Hunt.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31445",
         "downloadable":true
       },
       "Eojjeonji Joheun Il-i Saenggil Geot Gateun Jeonyeok":{
@@ -714,6 +760,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/820",
         "downloadable":true
       },
+      "Galleons of Glory - The Secret Voyage of Magellan":{
+        "url":"http://www.abandonia.com/en/games/31360/Galleons+of+Glory+-+The+Secret+Voyage+of+Magellan.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31360",
+        "downloadable":true
+      },
       "Gargoyle Medieval Pack":{
         "url":"http://www.abandonia.com/en/games/28140/Gargoyle+Medieval+Pack.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/28140",
@@ -792,24 +843,14 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/659",
         "downloadable":true
       },
-      "Heimdall":{
-        "url":"http://www.abandonia.com/en/games/25726/Heimdall.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/25726",
-        "downloadable":true
-      },
-      "Heimdall 2 - Into the Hall of Worlds":{
-        "url":"http://www.abandonia.com/en/games/148/Heimdall+2+-+Into+the+Hall+of+Worlds.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/148",
+      "Harley-Davidson - The Road to Sturgis":{
+        "url":"http://www.abandonia.com/en/games/30607/Harley-Davidson+-+The+Road+to+Sturgis.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30607",
         "downloadable":true
       },
       "Highway Hunter":{
         "url":"http://www.abandonia.com/en/games/819/Highway+Hunter.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/819",
-        "downloadable":true
-      },
-      "Hobbit, The":{
-        "url":"http://www.abandonia.com/en/games/1025/Hobbit%2C+The.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/1025",
         "downloadable":true
       },
       "Home Alone":{
@@ -835,6 +876,11 @@
       "Huckleberry Hound in Hollywood Capers":{
         "url":"http://www.abandonia.com/en/games/29524/Huckleberry+Hound+in+Hollywood+Capers.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/29524",
+        "downloadable":true
+      },
+      "Hunt for Red October, The":{
+        "url":"http://www.abandonia.com/en/games/30605/Hunt+for+Red+October%2C+The.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30605",
         "downloadable":true
       },
       "I.M. Meen":{
@@ -887,6 +933,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/625",
         "downloadable":true
       },
+      "Jazz Jackrabbit":{
+        "url":"http://www.abandonia.com/en/games/31361/Jazz+Jackrabbit.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31361",
+        "downloadable":true
+      },
       "Jazz Jackrabbit 2":{
         "url":"http://www.abandonia.com/en/games/294/Jazz+Jackrabbit+2.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/294",
@@ -920,6 +971,11 @@
       "Jim Power in Mutant Planet":{
         "url":"http://www.abandonia.com/en/games/784/Jim+Power+in+Mutant+Planet.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/784",
+        "downloadable":true
+      },
+      "Jisaeneun Dal":{
+        "url":"http://www.abandonia.com/en/games/31153/Jisaeneun+Dal.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31153",
         "downloadable":true
       },
       "Joe and Mac - Caveman Ninja":{
@@ -957,6 +1013,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/255",
         "downloadable":true
       },
+      "Jurassic War":{
+        "url":"http://www.abandonia.com/en/games/27890/Jurassic+War.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/27890",
+        "downloadable":true
+      },
       "Karateka":{
         "url":"http://www.abandonia.com/en/games/804/Karateka.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/804",
@@ -964,6 +1025,14 @@
       },
       "Kens Labyrinth":{
         "url":"http://www.abandonia.com/en/games/414/Kens+Labyrinth.html",
+        "downloadable":false
+      },
+      "Kings Quest V - Absence Makes the Heart go Yonder":{
+        "url":"http://www.abandonia.com/en/games/118/Kings+Quest+V+-+Absence+Makes+the+Heart+go+Yonder.html",
+        "downloadable":false
+      },
+      "Kings Quest VI - Heir Today, Gone Tomorrow":{
+        "url":"http://www.abandonia.com/en/games/119/Kings+Quest+VI+-+Heir+Today%2C+Gone+Tomorrow.html",
         "downloadable":false
       },
       "Knight Games":{
@@ -996,10 +1065,19 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/1019",
         "downloadable":true
       },
+      "Links - The Challenge of Golf":{
+        "url":"http://www.abandonia.com/en/games/31362/Links+-+The+Challenge+of+Golf.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31362",
+        "downloadable":true
+      },
       "Lion King, The":{
         "url":"http://www.abandonia.com/en/games/8/Lion+King%2C+The.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/8",
         "downloadable":true
+      },
+      "Little Big Adventure - Twinsens Adventure":{
+        "url":"http://www.abandonia.com/en/games/149/Little+Big+Adventure+-+Twinsens+Adventure.html",
+        "downloadable":false
       },
       "Livingstone, I Presume":{
         "url":"http://www.abandonia.com/en/games/1029/Livingstone%2C+I+Presume.html",
@@ -1009,6 +1087,11 @@
       "Lollypop":{
         "url":"http://www.abandonia.com/en/games/26633/Lollypop.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/26633",
+        "downloadable":true
+      },
+      "Lomax":{
+        "url":"http://www.abandonia.com/en/games/30632/Lomax.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30632",
         "downloadable":true
       },
       "Lost City of Atlantis, The":{
@@ -1033,6 +1116,11 @@
       "Manhole":{
         "url":"http://www.abandonia.com/en/games/26267/Manhole.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/26267",
+        "downloadable":true
+      },
+      "Manic Miner":{
+        "url":"http://www.abandonia.com/en/games/31363/Manic+Miner.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31363",
         "downloadable":true
       },
       "Marathon 2 - Durandal":{
@@ -1073,6 +1161,11 @@
         "url":"http://www.abandonia.com/en/games/530/Metal+Mutant.html",
         "downloadable":false
       },
+      "Mindshadow":{
+        "url":"http://www.abandonia.com/en/games/31364/Mindshadow.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31364",
+        "downloadable":true
+      },
       "Mine Bombers":{
         "url":"http://www.abandonia.com/en/games/636/Mine+Bombers.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/636",
@@ -1083,13 +1176,18 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/906",
         "downloadable":true
       },
-      "Montezuma's Return":{
-        "url":"http://www.abandonia.com/en/games/456/Montezuma%27s+Return.html",
+      "Mission Critical":{
+        "url":"http://www.abandonia.com/en/games/31134/Mission+Critical.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31134",
+        "downloadable":true
+      },
+      "Montezumas Return":{
+        "url":"http://www.abandonia.com/en/games/456/Montezumas+Return.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/456",
         "downloadable":true
       },
-      "Montezuma's Revenge":{
-        "url":"http://www.abandonia.com/en/games/954/Montezuma%27s+Revenge.html",
+      "Montezumas Revenge":{
+        "url":"http://www.abandonia.com/en/games/954/Montezumas+Revenge.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/954",
         "downloadable":true
       },
@@ -1110,18 +1208,20 @@
       },
       "Mortal Kombat":{
         "url":"http://www.abandonia.com/en/games/54/Mortal+Kombat.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/54",
-        "downloadable":true
+        "downloadable":false
       },
       "Mortal Kombat 3":{
         "url":"http://www.abandonia.com/en/games/29060/Mortal+Kombat+3.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/29060",
+        "downloadable":false
+      },
+      "Mortal Kombat 4":{
+        "url":"http://www.abandonia.com/en/games/31289/Mortal+Kombat+4.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31289",
         "downloadable":true
       },
       "Mortal Kombat II":{
         "url":"http://www.abandonia.com/en/games/316/Mortal+Kombat+II.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/316",
-        "downloadable":true
+        "downloadable":false
       },
       "Mortal Kombat Trilogy":{
         "url":"http://www.abandonia.com/en/games/28511/Mortal+Kombat+Trilogy.html",
@@ -1163,6 +1263,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/29721",
         "downloadable":true
       },
+      "Night Raid":{
+        "url":"http://www.abandonia.com/en/games/845/Night+Raid.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/845",
+        "downloadable":true
+      },
       "Nightmare Creatures":{
         "url":"http://www.abandonia.com/en/games/26808/Nightmare+Creatures.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/26808",
@@ -1181,6 +1286,11 @@
       "Ninja Rabbits":{
         "url":"http://www.abandonia.com/en/games/25916/Ninja+Rabbits.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/25916",
+        "downloadable":true
+      },
+      "No Greater Glory - The American Civil War":{
+        "url":"http://www.abandonia.com/en/games/31367/No+Greater+Glory+-+The+American+Civil+War.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31367",
         "downloadable":true
       },
       "No Respect":{
@@ -1249,8 +1359,7 @@
       },
       "Pandemonium":{
         "url":"http://www.abandonia.com/en/games/252/Pandemonium.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/252",
-        "downloadable":true
+        "downloadable":false
       },
       "Pang":{
         "url":"http://www.abandonia.com/en/games/64/Pang.html",
@@ -1282,8 +1391,8 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/981",
         "downloadable":true
       },
-      "Pharaoh's Tomb":{
-        "url":"http://www.abandonia.com/en/games/854/Pharaoh%27s+Tomb.html",
+      "Pharaohs Tomb":{
+        "url":"http://www.abandonia.com/en/games/854/Pharaohs+Tomb.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/854",
         "downloadable":true
       },
@@ -1447,6 +1556,16 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/836",
         "downloadable":true
       },
+      "Rollcage":{
+        "url":"http://www.abandonia.com/en/games/29319/Rollcage.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/29319",
+        "downloadable":true
+      },
+      "S.C.Out":{
+        "url":"http://www.abandonia.com/en/games/728/S.C.Out.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/728",
+        "downloadable":true
+      },
       "Sand Storm":{
         "url":"http://www.abandonia.com/en/games/915/Sand+Storm.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/915",
@@ -1456,10 +1575,19 @@
         "url":"http://www.abandonia.com/en/games/230/Sango+Fighter.html",
         "downloadable":false
       },
+      "School Bus Driver":{
+        "url":"http://www.abandonia.com/en/games/25137/School+Bus+Driver.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/25137",
+        "downloadable":true
+      },
+      "Sea Dragon":{
+        "url":"http://www.abandonia.com/en/games/30789/Sea+Dragon.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30789",
+        "downloadable":true
+      },
       "Secret Agent":{
         "url":"http://www.abandonia.com/en/games/24056/Secret+Agent.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/24056",
-        "downloadable":true
+        "downloadable":false
       },
       "Shadow Knights":{
         "url":"http://www.abandonia.com/en/games/793/Shadow+Knights.html",
@@ -1468,8 +1596,7 @@
       },
       "Shadow Man":{
         "url":"http://www.abandonia.com/en/games/27548/Shadow+Man.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/27548",
-        "downloadable":true
+        "downloadable":false
       },
       "Silpheed":{
         "url":"http://www.abandonia.com/en/games/295/Silpheed.html",
@@ -1485,6 +1612,10 @@
         "url":"http://www.abandonia.com/en/games/1014/Silverball+1995.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/1014",
         "downloadable":true
+      },
+      "Simon the Sorcerer":{
+        "url":"http://www.abandonia.com/en/games/356/Simon+the+Sorcerer.html",
+        "downloadable":false
       },
       "Simpsons - Bart vs the Space Mutants, The":{
         "url":"http://www.abandonia.com/en/games/493/Simpsons+-+Bart+vs+the+Space+Mutants%2C+The.html",
@@ -1555,6 +1686,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/25109",
         "downloadable":true
       },
+      "Spot":{
+        "url":"http://www.abandonia.com/en/games/24091/Spot.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/24091",
+        "downloadable":true
+      },
       "Spy vs Spy III - Arctic Antics":{
         "url":"http://www.abandonia.com/en/games/25167/Spy+vs+Spy+III+-+Arctic+Antics.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/25167",
@@ -1607,8 +1743,7 @@
       },
       "Strife":{
         "url":"http://www.abandonia.com/en/games/418/Strife.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/418",
-        "downloadable":true
+        "downloadable":false
       },
       "Striker":{
         "url":"http://www.abandonia.com/en/games/28668/Striker.html",
@@ -1665,6 +1800,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/27004",
         "downloadable":true
       },
+      "Teenage Mutant Ninja Turtles - The Arcade Game":{
+        "url":"http://www.abandonia.com/en/games/31368/Teenage+Mutant+Ninja+Turtles+-+The+Arcade+Game.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31368",
+        "downloadable":true
+      },
       "Terminal Terror":{
         "url":"http://www.abandonia.com/en/games/643/Terminal+Terror.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/643",
@@ -1691,7 +1831,8 @@
       },
       "Theatre of Pain":{
         "url":"http://www.abandonia.com/en/games/23437/Theatre+of+Pain.html",
-        "downloadable":false
+        "download_url":"http://www.abandonia.com/en/downloadgame/23437",
+        "downloadable":true
       },
       "Thexder":{
         "url":"http://www.abandonia.com/en/games/5350/Thexder.html",
@@ -1733,6 +1874,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/344",
         "downloadable":true
       },
+      "Treehouse, The":{
+        "url":"http://www.abandonia.com/en/games/29348/Treehouse%2C+The.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/29348",
+        "downloadable":true
+      },
       "Tristan Pinball":{
         "url":"http://www.abandonia.com/en/games/1044/Tristan+Pinball.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/1044",
@@ -1746,6 +1892,11 @@
       "Trolls":{
         "url":"http://www.abandonia.com/en/games/380/Trolls.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/380",
+        "downloadable":true
+      },
+      "Trugg":{
+        "url":"http://www.abandonia.com/en/games/28720/Trugg.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/28720",
         "downloadable":true
       },
       "Tubular Worlds":{
@@ -1768,6 +1919,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/26660",
         "downloadable":true
       },
+      "Twilight - 2000":{
+        "url":"http://www.abandonia.com/en/games/26721/Twilight+-+2000.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/26721",
+        "downloadable":true
+      },
       "Tyrian 2000":{
         "url":"http://www.abandonia.com/en/games/296/Tyrian+2000.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/296",
@@ -1781,6 +1937,11 @@
       "Ulises":{
         "url":"http://www.abandonia.com/en/games/28712/Ulises.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/28712",
+        "downloadable":true
+      },
+      "Unreal":{
+        "url":"http://www.abandonia.com/en/games/31029/Unreal.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31029",
         "downloadable":true
       },
       "Untouchables, The":{
@@ -1813,6 +1974,16 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/955",
         "downloadable":true
       },
+      "War Diary":{
+        "url":"http://www.abandonia.com/en/games/24066/War+Diary.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/24066",
+        "downloadable":true
+      },
+      "WCW Nitro":{
+        "url":"http://www.abandonia.com/en/games/31077/WCW+Nitro.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31077",
+        "downloadable":true
+      },
       "West Adventure":{
         "url":"http://www.abandonia.com/en/games/938/West+Adventure.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/938",
@@ -1827,15 +1998,6 @@
         "url":"http://www.abandonia.com/en/games/780/Willy+the+Worm.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/780",
         "downloadable":true
-      },
-      "Wing Commander Academy":{
-        "url":"http://www.abandonia.com/en/games/26202/Wing+Commander+Academy.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/26202",
-        "downloadable":true
-      },
-      "Wing Commander II - Vengeance of the Kilrathi":{
-        "url":"http://www.abandonia.com/en/games/25373/Wing+Commander+II+-+Vengeance+of+the+Kilrathi.html",
-        "downloadable":false
       },
       "Wings of Fury":{
         "url":"http://www.abandonia.com/en/games/160/Wings+of+Fury.html",
@@ -1880,11 +2042,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/317",
         "downloadable":true
       },
-      "X-Men - Madness in Murderworld":{
-        "url":"http://www.abandonia.com/en/games/26879/X-Men+-+Madness+in+Murderworld.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/26879",
-        "downloadable":true
-      },
       "X-Men 2 - The Fall of the Mutants":{
         "url":"http://www.abandonia.com/en/games/26058/X-Men+2+-+The+Fall+of+the+Mutants.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/26058",
@@ -1913,6 +2070,11 @@
       "Xenophage - Alien BloodSport":{
         "url":"http://www.abandonia.com/en/games/27094/Xenophage+-+Alien+BloodSport.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/27094",
+        "downloadable":true
+      },
+      "Xixit":{
+        "url":"http://www.abandonia.com/en/games/1047/Xixit.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/1047",
         "downloadable":true
       },
       "XQuest":{
@@ -1965,11 +2127,6 @@
   "Adventure":{
     "url":"http://www.abandonia.com/en/game/Adventure",
     "games":{
-      "007 - A View to Kill":{
-        "url":"http://www.abandonia.com/en/games/29739/007+-+A+View+to+Kill.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/29739",
-        "downloadable":true
-      },
       "5 Days a Stranger":{
         "url":"http://www.abandonia.com/en/games/257/5+Days+a+Stranger.html",
         "downloadable":false
@@ -2001,6 +2158,11 @@
       "Adventure in Serenia":{
         "url":"http://www.abandonia.com/en/games/1056/Adventure+in+Serenia.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/1056",
+        "downloadable":true
+      },
+      "Adventures in Math":{
+        "url":"http://www.abandonia.com/en/games/27111/Adventures+in+Math.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/27111",
         "downloadable":true
       },
       "Adventures of Maddog Williams in the Dungeons of Duridian, The":{
@@ -2118,6 +2280,11 @@
         "url":"http://www.abandonia.com/en/games/58/Beneath+a+Steel+Sky.html",
         "downloadable":false
       },
+      "Berlin 1948":{
+        "url":"http://www.abandonia.com/en/games/31318/Berlin+1948.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31318",
+        "downloadable":true
+      },
       "Beverly Hillbillies, The":{
         "url":"http://www.abandonia.com/en/games/584/Beverly+Hillbillies%2C+The.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/584",
@@ -2135,8 +2302,7 @@
       },
       "Bioforge":{
         "url":"http://www.abandonia.com/en/games/1030/Bioforge.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/1030",
-        "downloadable":true
+        "downloadable":false
       },
       "Black Cauldron, The":{
         "url":"http://www.abandonia.com/en/games/430/Black+Cauldron%2C+The.html",
@@ -2152,19 +2318,18 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/524",
         "downloadable":true
       },
+      "Blood Omen - Legacy Of Kain":{
+        "url":"http://www.abandonia.com/en/games/371/Blood+Omen+-+Legacy+Of+Kain.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/371",
+        "downloadable":true
+      },
       "BloodNet":{
         "url":"http://www.abandonia.com/en/games/201/BloodNet.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/201",
-        "downloadable":true
+        "downloadable":false
       },
       "Blue Force":{
         "url":"http://www.abandonia.com/en/games/319/Blue+Force.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/319",
-        "downloadable":true
-      },
-      "Bram Stokers Dracula":{
-        "url":"http://www.abandonia.com/en/games/1004/Bram+Stokers+Dracula.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/1004",
         "downloadable":true
       },
       "Bureau 13":{
@@ -2216,6 +2381,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/449",
         "downloadable":true
       },
+      "Conan - The Cimmerian":{
+        "url":"http://www.abandonia.com/en/games/1026/Conan+-+The+Cimmerian.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/1026",
+        "downloadable":true
+      },
       "Conquests of Camelot - The Search for the Grail":{
         "url":"http://www.abandonia.com/en/games/476/Conquests+of+Camelot+-+The+Search+for+the+Grail.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/476",
@@ -2251,6 +2421,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/261",
         "downloadable":true
       },
+      "Dark Convergence II":{
+        "url":"http://www.abandonia.com/en/games/31339/Dark+Convergence+II.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31339",
+        "downloadable":true
+      },
       "Dark Half, The":{
         "url":"http://www.abandonia.com/en/games/595/Dark+Half%2C+The.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/595",
@@ -2270,10 +2445,6 @@
         "url":"http://www.abandonia.com/en/games/352/Daughter+of+Serpents+%28a.k.a.+The+Scroll%29.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/352",
         "downloadable":true
-      },
-      "Day of the Tentacle":{
-        "url":"http://www.abandonia.com/en/games/17/Day+of+the+Tentacle.html",
-        "downloadable":false
       },
       "Death Gate":{
         "url":"http://www.abandonia.com/en/games/525/Death+Gate.html",
@@ -2303,6 +2474,11 @@
       "Discworld":{
         "url":"http://www.abandonia.com/en/games/878/Discworld.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/878",
+        "downloadable":true
+      },
+      "Discworld 2 - Mortality Bytes":{
+        "url":"http://www.abandonia.com/en/games/30935/Discworld+2+-+Mortality+Bytes.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30935",
         "downloadable":true
       },
       "Dizzy - Fantasy World":{
@@ -2492,6 +2668,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/228",
         "downloadable":true
       },
+      "Hobbit, The":{
+        "url":"http://www.abandonia.com/en/games/1025/Hobbit%2C+The.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/1025",
+        "downloadable":true
+      },
       "Hook":{
         "url":"http://www.abandonia.com/en/games/521/Hook.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/521",
@@ -2611,14 +2792,6 @@
         "url":"http://www.abandonia.com/en/games/117/Kings+Quest+IV+-+The+Perils+of+Rosella.html",
         "downloadable":false
       },
-      "Kings Quest V - Absence Makes the Heart go Yonder":{
-        "url":"http://www.abandonia.com/en/games/118/Kings+Quest+V+-+Absence+Makes+the+Heart+go+Yonder.html",
-        "downloadable":false
-      },
-      "Kings Quest VI - Heir Today, Gone Tomorrow":{
-        "url":"http://www.abandonia.com/en/games/119/Kings+Quest+VI+-+Heir+Today%2C+Gone+Tomorrow.html",
-        "downloadable":false
-      },
       "Kronolog - The Nazi Paradox":{
         "url":"http://www.abandonia.com/en/games/606/Kronolog+-+The+Nazi+Paradox.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/606",
@@ -2673,8 +2846,7 @@
       },
       "Legend of Kyrandia 1, The":{
         "url":"http://www.abandonia.com/en/games/88/Legend+of+Kyrandia+1%2C+The.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/88",
-        "downloadable":true
+        "downloadable":false
       },
       "Legend of Kyrandia 2 - Hand of Fate, The":{
         "url":"http://www.abandonia.com/en/games/292/Legend+of+Kyrandia+2+-+Hand+of+Fate%2C+The.html",
@@ -2725,10 +2897,6 @@
         "url":"http://www.abandonia.com/en/games/340/Litil+Divil.html",
         "downloadable":false
       },
-      "Little Big Adventure - Twinsens Adventure":{
-        "url":"http://www.abandonia.com/en/games/149/Little+Big+Adventure+-+Twinsens+Adventure.html",
-        "downloadable":false
-      },
       "Loom":{
         "url":"http://www.abandonia.com/en/games/21/Loom.html",
         "downloadable":false
@@ -2750,7 +2918,8 @@
       },
       "Lure of the Temptress":{
         "url":"http://www.abandonia.com/en/games/83/Lure+of+the+Temptress.html",
-        "downloadable":false
+        "download_url":"http://www.abandonia.com/en/downloadgame/83",
+        "downloadable":true
       },
       "Lurking Horror, The":{
         "url":"http://www.abandonia.com/en/games/434/Lurking+Horror%2C+The.html",
@@ -2784,6 +2953,11 @@
       "Mixed-Up Mother Goose":{
         "url":"http://www.abandonia.com/en/games/365/Mixed-Up+Mother+Goose.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/365",
+        "downloadable":true
+      },
+      "Mixed-Up Mother Goose 1991":{
+        "url":"http://www.abandonia.com/en/games/31293/Mixed-Up+Mother+Goose+1991.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31293",
         "downloadable":true
       },
       "Mixed-Up Mother Goose VGA":{
@@ -2877,6 +3051,11 @@
         "url":"http://www.abandonia.com/en/games/128/Police+Quest+4+-+Open+Season.html",
         "downloadable":false
       },
+      "Prisoner of Ice":{
+        "url":"http://www.abandonia.com/en/games/30842/Prisoner+of+Ice.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30842",
+        "downloadable":true
+      },
       "Project Nomad":{
         "url":"http://www.abandonia.com/en/games/383/Project+Nomad.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/383",
@@ -2938,8 +3117,7 @@
       },
       "Rex Nebular and the Cosmic Gender-Bender":{
         "url":"http://www.abandonia.com/en/games/1018/Rex+Nebular+and+the+Cosmic+Gender-Bender.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/1018",
-        "downloadable":true
+        "downloadable":false
       },
       "Ringworld - Revenge of the Patriarch":{
         "url":"http://www.abandonia.com/en/games/518/Ringworld+-+Revenge+of+the+Patriarch.html",
@@ -2959,6 +3137,11 @@
       "Scapeghost":{
         "url":"http://www.abandonia.com/en/games/790/Scapeghost.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/790",
+        "downloadable":true
+      },
+      "Secrets of the Pyramids":{
+        "url":"http://www.abandonia.com/en/games/30573/Secrets+of+the+Pyramids.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30573",
         "downloadable":true
       },
       "Seymour Goes To Hollywood":{
@@ -2981,11 +3164,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/334",
         "downloadable":true
       },
-      "Shannara":{
-        "url":"http://www.abandonia.com/en/games/25046/Shannara.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/25046",
-        "downloadable":true
-      },
       "Sherlock Holmes - Another Bow":{
         "url":"http://www.abandonia.com/en/games/529/Sherlock+Holmes+-+Another+Bow.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/529",
@@ -2995,10 +3173,6 @@
         "url":"http://www.abandonia.com/en/games/699/Shogun.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/699",
         "downloadable":true
-      },
-      "Simon the Sorcerer":{
-        "url":"http://www.abandonia.com/en/games/356/Simon+the+Sorcerer.html",
-        "downloadable":false
       },
       "Sinbad and the Throne of the Falcon":{
         "url":"http://www.abandonia.com/en/games/445/Sinbad+and+the+Throne+of+the+Falcon.html",
@@ -3144,6 +3318,11 @@
         "url":"http://www.abandonia.com/en/games/657/Tex+Murphy+2+-+Martian+Memorandum.html",
         "downloadable":false
       },
+      "The Dark Convergence":{
+        "url":"http://www.abandonia.com/en/games/31337/The+Dark+Convergence.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31337",
+        "downloadable":true
+      },
       "Time Paradox":{
         "url":"http://www.abandonia.com/en/games/26110/Time+Paradox.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/26110",
@@ -3157,11 +3336,6 @@
       "Touche - The Adventures of the 5th Musketeer":{
         "url":"http://www.abandonia.com/en/games/415/Touche+-+The+Adventures+of+the+5th+Musketeer.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/415",
-        "downloadable":true
-      },
-      "Treehouse, The":{
-        "url":"http://www.abandonia.com/en/games/29348/Treehouse%2C+The.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/29348",
         "downloadable":true
       },
       "Trust and Betrayal - Legacy of Siboot":{
@@ -3193,6 +3367,10 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/301",
         "downloadable":true
       },
+      "Warcraft Adventures - Lord of the Clans":{
+        "url":"http://www.abandonia.com/en/games/30343/Warcraft+Adventures+-+Lord+of+the+Clans.html",
+        "downloadable":false
+      },
       "Waxworks":{
         "url":"http://www.abandonia.com/en/games/689/Waxworks.html",
         "downloadable":false
@@ -3217,11 +3395,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/1059",
         "downloadable":true
       },
-      "Where in Time is Carmen Sandiego":{
-        "url":"http://www.abandonia.com/en/games/26108/Where+in+Time+is+Carmen+Sandiego.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/26108",
-        "downloadable":true
-      },
       "Where Time Stood Still":{
         "url":"http://www.abandonia.com/en/games/921/Where+Time+Stood+Still.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/921",
@@ -3230,6 +3403,11 @@
       "Wishbringer":{
         "url":"http://www.abandonia.com/en/games/451/Wishbringer.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/451",
+        "downloadable":true
+      },
+      "X-Men - Madness in Murderworld":{
+        "url":"http://www.abandonia.com/en/games/26879/X-Men+-+Madness+in+Murderworld.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/26879",
         "downloadable":true
       },
       "Zak McKracken and the Alien Mindbenders":{
@@ -3274,11 +3452,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/807",
         "downloadable":true
       },
-      "Archon Ultra":{
-        "url":"http://www.abandonia.com/en/games/812/Archon+Ultra.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/812",
-        "downloadable":true
-      },
       "Backgammon":{
         "url":"http://www.abandonia.com/en/games/23320/Backgammon.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/23320",
@@ -3307,11 +3480,6 @@
       "Bush Buck - Global Treasure Hunter":{
         "url":"http://www.abandonia.com/en/games/868/Bush+Buck+-+Global+Treasure+Hunter.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/868",
-        "downloadable":true
-      },
-      "Christmas Matchup!":{
-        "url":"http://www.abandonia.com/en/games/24466/Christmas+Matchup%21.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/24466",
         "downloadable":true
       },
       "Clue - Master Detective":{
@@ -3379,13 +3547,13 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/286",
         "downloadable":true
       },
-      "Maker's Matchup":{
-        "url":"http://www.abandonia.com/en/games/4384/Maker%27s+Matchup.html",
+      "Makers Matchup":{
+        "url":"http://www.abandonia.com/en/games/4384/Makers+Matchup.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/4384",
         "downloadable":true
       },
-      "Mario's Game Gallery":{
-        "url":"http://www.abandonia.com/en/games/24533/Mario%27s+Game+Gallery.html",
+      "Marios Game Gallery":{
+        "url":"http://www.abandonia.com/en/games/24533/Marios+Game+Gallery.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/24533",
         "downloadable":true
       },
@@ -3424,11 +3592,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/1022",
         "downloadable":true
       },
-      "Spot":{
-        "url":"http://www.abandonia.com/en/games/24091/Spot.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/24091",
-        "downloadable":true
-      },
       "Star Wars Chess":{
         "url":"http://www.abandonia.com/en/games/5205/Star+Wars+Chess.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/5205",
@@ -3459,11 +3622,6 @@
   "Puzzle":{
     "url":"http://www.abandonia.com/en/game/Puzzle",
     "games":{
-      "7 Colors":{
-        "url":"http://www.abandonia.com/en/games/888/7+Colors.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/888",
-        "downloadable":true
-      },
       "Alpha Waves":{
         "url":"http://www.abandonia.com/en/games/25594/Alpha+Waves.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/25594",
@@ -3504,11 +3662,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/588",
         "downloadable":true
       },
-      "Boppin'":{
-        "url":"http://www.abandonia.com/en/games/3350/Boppin%27.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/3350",
-        "downloadable":true
-      },
       "Boulder Dash":{
         "url":"http://www.abandonia.com/en/games/24108/Boulder+Dash.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/24108",
@@ -3539,8 +3692,8 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/49",
         "downloadable":true
       },
-      "Chip's Challenge":{
-        "url":"http://www.abandonia.com/en/games/410/Chip%27s+Challenge.html",
+      "Chips Challenge":{
+        "url":"http://www.abandonia.com/en/games/410/Chips+Challenge.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/410",
         "downloadable":true
       },
@@ -3599,6 +3752,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/335",
         "downloadable":true
       },
+      "Dweep Gold":{
+        "url":"http://www.abandonia.com/en/games/31083/Dweep+Gold.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31083",
+        "downloadable":true
+      },
       "Elements":{
         "url":"http://www.abandonia.com/en/games/1045/Elements.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/1045",
@@ -3622,10 +3780,6 @@
         "url":"http://www.abandonia.com/en/games/815/Flagger.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/815",
         "downloadable":true
-      },
-      "Fool's Errand, The":{
-        "url":"http://www.abandonia.com/en/games/487/Fool%27s+Errand%2C+The.html",
-        "downloadable":false
       },
       "Gear Works":{
         "url":"http://www.abandonia.com/en/games/684/Gear+Works.html",
@@ -3788,8 +3942,8 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/1023",
         "downloadable":true
       },
-      "Quarky & Quaysoo's Turbo Science":{
-        "url":"http://www.abandonia.com/en/games/25126/Quarky+%2526+Quaysoo%27s+Turbo+Science.html",
+      "Quarky & Quaysoos Turbo Science":{
+        "url":"http://www.abandonia.com/en/games/25126/Quarky+%2526+Quaysoos+Turbo+Science.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/25126",
         "downloadable":true
       },
@@ -3806,13 +3960,8 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/831",
         "downloadable":true
       },
-      "S.C.Out":{
-        "url":"http://www.abandonia.com/en/games/728/S.C.Out.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/728",
-        "downloadable":true
-      },
-      "Scooter's Magic Castle":{
-        "url":"http://www.abandonia.com/en/games/25131/Scooter%27s+Magic+Castle.html",
+      "Scooters Magic Castle":{
+        "url":"http://www.abandonia.com/en/games/25131/Scooters+Magic+Castle.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/25131",
         "downloadable":true
       },
@@ -3826,6 +3975,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/25125",
         "downloadable":true
       },
+      "Sid & Als Incredible Toons":{
+        "url":"http://www.abandonia.com/en/games/30820/Sid+%2526+Als+Incredible+Toons.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30820",
+        "downloadable":true
+      },
       "Sink or Swim":{
         "url":"http://www.abandonia.com/en/games/638/Sink+or+Swim.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/638",
@@ -3836,8 +3990,8 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/700",
         "downloadable":true
       },
-      "Snoopy's Game Club":{
-        "url":"http://www.abandonia.com/en/games/682/Snoopy%27s+Game+Club.html",
+      "Snoopys Game Club":{
+        "url":"http://www.abandonia.com/en/games/682/Snoopys+Game+Club.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/682",
         "downloadable":true
       },
@@ -3921,11 +4075,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/741",
         "downloadable":true
       },
-      "Trugg":{
-        "url":"http://www.abandonia.com/en/games/28720/Trugg.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/28720",
-        "downloadable":true
-      },
       "Where in Americas Past is Carmen Sandiego":{
         "url":"http://www.abandonia.com/en/games/1061/Where+in+Americas+Past+is+Carmen+Sandiego.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/1061",
@@ -3948,7 +4097,13 @@
       },
       "Where in the World is Carmen Sandiego Deluxe":{
         "url":"http://www.abandonia.com/en/games/447/Where+in+the+World+is+Carmen+Sandiego+Deluxe.html",
-        "downloadable":false
+        "download_url":"http://www.abandonia.com/en/downloadgame/447",
+        "downloadable":true
+      },
+      "Where in Time is Carmen Sandiego":{
+        "url":"http://www.abandonia.com/en/games/26108/Where+in+Time+is+Carmen+Sandiego.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/26108",
+        "downloadable":true
       },
       "Wild Science Arcade, The":{
         "url":"http://www.abandonia.com/en/games/1028/Wild+Science+Arcade%2C+The.html",
@@ -3958,11 +4113,6 @@
       "Word Whiz":{
         "url":"http://www.abandonia.com/en/games/26908/Word+Whiz.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/26908",
-        "downloadable":true
-      },
-      "Xixit":{
-        "url":"http://www.abandonia.com/en/games/1047/Xixit.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/1047",
         "downloadable":true
       }
     }
@@ -3983,11 +4133,6 @@
       "BC Racers":{
         "url":"http://www.abandonia.com/en/games/569/BC+Racers.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/569",
-        "downloadable":true
-      },
-      "Carnage":{
-        "url":"http://www.abandonia.com/en/games/28047/Carnage.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/28047",
         "downloadable":true
       },
       "Cisco Heat - All American Police Car Race":{
@@ -4119,8 +4264,8 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/30315",
         "downloadable":true
       },
-      "Motocross (aka Suzuki's RM250 Motocross)":{
-        "url":"http://www.abandonia.com/en/games/4500/Motocross+%28aka+Suzuki%27s+RM250+Motocross%29.html",
+      "Motocross (aka Suzukis RM250 Motocross)":{
+        "url":"http://www.abandonia.com/en/games/4500/Motocross+%28aka+Suzukis+RM250+Motocross%29.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/4500",
         "downloadable":true
       },
@@ -4181,21 +4326,15 @@
       },
       "Re-Volt":{
         "url":"http://www.abandonia.com/en/games/908/Re-Volt.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/908",
-        "downloadable":true
+        "downloadable":false
       },
       "Road Hog":{
         "url":"http://www.abandonia.com/en/games/772/Road+Hog.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/772",
         "downloadable":true
       },
-      "Rollcage":{
-        "url":"http://www.abandonia.com/en/games/29319/Rollcage.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/29319",
-        "downloadable":true
-      },
-      "Skyroads":{
-        "url":"http://www.abandonia.com/en/games/63/Skyroads.html",
+      "SkyRoads":{
+        "url":"http://www.abandonia.com/en/games/63/SkyRoads.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/63",
         "downloadable":true
       },
@@ -4211,13 +4350,11 @@
       },
       "Street Rod":{
         "url":"http://www.abandonia.com/en/games/177/Street+Rod.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/177",
-        "downloadable":true
+        "downloadable":false
       },
       "Street Rod 2 - The Next Generation":{
         "url":"http://www.abandonia.com/en/games/34/Street+Rod+2+-+The+Next+Generation.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/34",
-        "downloadable":true
+        "downloadable":false
       },
       "Stunt Car Racer":{
         "url":"http://www.abandonia.com/en/games/934/Stunt+Car+Racer.html",
@@ -4293,11 +4430,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/405",
         "downloadable":true
       },
-      "Amulet Of Yendor":{
-        "url":"http://www.abandonia.com/en/games/966/Amulet+Of+Yendor.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/966",
-        "downloadable":true
-      },
       "Amulets and Armor":{
         "url":"http://www.abandonia.com/en/games/655/Amulets+and+Armor.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/655",
@@ -4318,8 +4450,7 @@
       },
       "Anvil of Dawn":{
         "url":"http://www.abandonia.com/en/games/304/Anvil+of+Dawn.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/304",
-        "downloadable":true
+        "downloadable":false
       },
       "Autoduel":{
         "url":"http://www.abandonia.com/en/games/492/Autoduel.html",
@@ -4333,18 +4464,15 @@
       },
       "Bards Tale - Tales of the Unknown, The":{
         "url":"http://www.abandonia.com/en/games/929/Bards+Tale+-+Tales+of+the+Unknown%2C+The.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/929",
-        "downloadable":true
+        "downloadable":false
       },
       "Bards Tale II - The Destiny Knight, The":{
         "url":"http://www.abandonia.com/en/games/930/Bards+Tale+II+-+The+Destiny+Knight%2C+The.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/930",
-        "downloadable":true
+        "downloadable":false
       },
       "Bards Tale III - Thief of Fate, The":{
         "url":"http://www.abandonia.com/en/games/931/Bards+Tale+III+-+Thief+of+Fate%2C+The.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/931",
-        "downloadable":true
+        "downloadable":false
       },
       "BattleTech - The Crescent Hawks Inception":{
         "url":"http://www.abandonia.com/en/games/86/BattleTech+-+The+Crescent+Hawks+Inception.html",
@@ -4354,11 +4482,6 @@
       "Betrayal at Krondor":{
         "url":"http://www.abandonia.com/en/games/208/Betrayal+at+Krondor.html",
         "downloadable":false
-      },
-      "Blood Omen - Legacy Of Kain":{
-        "url":"http://www.abandonia.com/en/games/371/Blood+Omen+-+Legacy+Of+Kain.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/371",
-        "downloadable":true
       },
       "Buck Rogers - Countdown to Doomsday":{
         "url":"http://www.abandonia.com/en/games/23884/Buck+Rogers+-+Countdown+to+Doomsday.html",
@@ -4375,14 +4498,14 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/619",
         "downloadable":true
       },
-      "Conan - The Cimmerian":{
-        "url":"http://www.abandonia.com/en/games/1026/Conan+-+The+Cimmerian.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/1026",
-        "downloadable":true
-      },
       "Crystals of Arborea":{
         "url":"http://www.abandonia.com/en/games/798/Crystals+of+Arborea.html",
         "downloadable":false
+      },
+      "Curse of the Azure Bonds":{
+        "url":"http://www.abandonia.com/en/games/31177/Curse+of+the+Azure+Bonds.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31177",
+        "downloadable":true
       },
       "Daemonsgate":{
         "url":"http://www.abandonia.com/en/games/802/Daemonsgate.html",
@@ -4457,6 +4580,10 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/528",
         "downloadable":true
       },
+      "Elder Scrolls - Arena, The":{
+        "url":"http://www.abandonia.com/en/games/195/Elder+Scrolls+-+Arena%2C+The.html",
+        "downloadable":false
+      },
       "Elder Scrolls - Daggerfall, The":{
         "url":"http://www.abandonia.com/en/games/27432/Elder+Scrolls+-+Daggerfall%2C+The.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/27432",
@@ -4501,6 +4628,16 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/1054",
         "downloadable":true
       },
+      "Heimdall":{
+        "url":"http://www.abandonia.com/en/games/25726/Heimdall.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/25726",
+        "downloadable":true
+      },
+      "Heimdall 2 - Into the Hall of Worlds":{
+        "url":"http://www.abandonia.com/en/games/148/Heimdall+2+-+Into+the+Hall+of+Worlds.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/148",
+        "downloadable":true
+      },
       "Hexx - Heresy of The Wizard":{
         "url":"http://www.abandonia.com/en/games/902/Hexx+-+Heresy+of+The+Wizard.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/902",
@@ -4526,6 +4663,11 @@
       "Keys to Maramon, The":{
         "url":"http://www.abandonia.com/en/games/379/Keys+to+Maramon%2C+The.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/379",
+        "downloadable":true
+      },
+      "Knights of Legend":{
+        "url":"http://www.abandonia.com/en/games/31344/Knights+of+Legend.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31344",
         "downloadable":true
       },
       "Lands of Lore - The Throne of Chaos":{
@@ -4622,6 +4764,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/1015",
         "downloadable":true
       },
+      "Pool of Radiance":{
+        "url":"http://www.abandonia.com/en/games/31044/Pool+of+Radiance.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31044",
+        "downloadable":true
+      },
       "Princess Maker 2":{
         "url":"http://www.abandonia.com/en/games/181/Princess+Maker+2.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/181",
@@ -4669,6 +4816,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/28865",
         "downloadable":true
       },
+      "Space Rogue":{
+        "url":"http://www.abandonia.com/en/games/25004/Space+Rogue.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/25004",
+        "downloadable":true
+      },
       "Spirit of Excalibur":{
         "url":"http://www.abandonia.com/en/games/561/Spirit+of+Excalibur.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/561",
@@ -4692,15 +4844,9 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/489",
         "downloadable":true
       },
-      "Twilight - 2000":{
-        "url":"http://www.abandonia.com/en/games/26721/Twilight+-+2000.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/26721",
-        "downloadable":true
-      },
       "Ultima - Worlds of Adventure 2 - Martian Dreams":{
         "url":"http://www.abandonia.com/en/games/381/Ultima+-+Worlds+of+Adventure+2+-+Martian+Dreams.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/381",
-        "downloadable":true
+        "downloadable":false
       },
       "Ultima IV - Quest of the Avatar":{
         "url":"http://www.abandonia.com/en/games/25548/Ultima+IV+-+Quest+of+the+Avatar.html",
@@ -4740,11 +4886,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/564",
         "downloadable":true
       },
-      "Visions of Aftermath - The Boomtown":{
-        "url":"http://www.abandonia.com/en/games/27805/Visions+of+Aftermath+-+The+Boomtown.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/27805",
-        "downloadable":true
-      },
       "WarWizard":{
         "url":"http://www.abandonia.com/en/games/28493/WarWizard.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/28493",
@@ -4752,8 +4893,7 @@
       },
       "Wasteland":{
         "url":"http://www.abandonia.com/en/games/436/Wasteland.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/436",
-        "downloadable":true
+        "downloadable":false
       },
       "Whales Voyage":{
         "url":"http://www.abandonia.com/en/games/532/Whales+Voyage.html",
@@ -4782,13 +4922,11 @@
       },
       "Wizardry VI - Bane of the Cosmic Forge":{
         "url":"http://www.abandonia.com/en/games/27576/Wizardry+VI+-+Bane+of+the+Cosmic+Forge.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/27576",
-        "downloadable":true
+        "downloadable":false
       },
       "Wizardry VII - Crusaders of the Dark Savant":{
         "url":"http://www.abandonia.com/en/games/247/Wizardry+VII+-+Crusaders+of+the+Dark+Savant.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/247",
-        "downloadable":true
+        "downloadable":false
       },
       "Wizards Castle, The":{
         "url":"http://www.abandonia.com/en/games/26216/Wizards+Castle%2C+The.html",
@@ -4802,8 +4940,7 @@
       },
       "Worlds of Ultima - The Savage Empire":{
         "url":"http://www.abandonia.com/en/games/23970/Worlds+of+Ultima+-+The+Savage+Empire.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/23970",
-        "downloadable":true
+        "downloadable":false
       }
     }
   },
@@ -4823,6 +4960,11 @@
       "A320 Airbus":{
         "url":"http://www.abandonia.com/en/games/777/A320+Airbus.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/777",
+        "downloadable":true
+      },
+      "ACE: Air Combat Emulator":{
+        "url":"http://www.abandonia.com/en/games/29768/ACE%3A+Air+Combat+Emulator.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/29768",
         "downloadable":true
       },
       "Aces of the Pacific":{
@@ -4895,9 +5037,15 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/769",
         "downloadable":true
       },
+      "Chuck Yeagers Air Combat":{
+        "url":"http://www.abandonia.com/en/games/30995/Chuck+Yeagers+Air+Combat.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30995",
+        "downloadable":true
+      },
       "Constructor":{
         "url":"http://www.abandonia.com/en/games/369/Constructor.html",
-        "downloadable":false
+        "download_url":"http://www.abandonia.com/en/downloadgame/369",
+        "downloadable":true
       },
       "Das Boot - German U-Boat Simulation":{
         "url":"http://www.abandonia.com/en/games/603/Das+Boot+-+German+U-Boat+Simulation.html",
@@ -4933,6 +5081,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/755",
         "downloadable":true
       },
+      "Dreadnoughts":{
+        "url":"http://www.abandonia.com/en/games/31342/Dreadnoughts.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31342",
+        "downloadable":true
+      },
       "Elite":{
         "url":"http://www.abandonia.com/en/games/113/Elite.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/113",
@@ -4945,8 +5098,7 @@
       },
       "F-117A Stealth Fighter 2.0":{
         "url":"http://www.abandonia.com/en/games/4553/F-117A+Stealth+Fighter+2.0.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/4553",
-        "downloadable":true
+        "downloadable":false
       },
       "F-19 Stealth Fighter":{
         "url":"http://www.abandonia.com/en/games/3750/F-19+Stealth+Fighter.html",
@@ -4978,11 +5130,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/30356",
         "downloadable":true
       },
-      "Halls of Montezuma":{
-        "url":"http://www.abandonia.com/en/games/766/Halls+of+Montezuma.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/766",
-        "downloadable":true
-      },
       "Harpoon":{
         "url":"http://www.abandonia.com/en/games/27689/Harpoon.html",
         "downloadable":false
@@ -4992,14 +5139,23 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/969",
         "downloadable":true
       },
+      "High Seas Trader":{
+        "url":"http://www.abandonia.com/en/games/214/High+Seas+Trader.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/214",
+        "downloadable":true
+      },
       "HIND - The Russian Combat Helicopter Simulation":{
         "url":"http://www.abandonia.com/en/games/497/HIND+-+The+Russian+Combat+Helicopter+Simulation.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/497",
-        "downloadable":true
+        "downloadable":false
       },
       "Holiday Island":{
         "url":"http://www.abandonia.com/en/games/24114/Holiday+Island.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/24114",
+        "downloadable":true
+      },
+      "Klondike Pro":{
+        "url":"http://www.abandonia.com/en/games/31266/Klondike+Pro.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31266",
         "downloadable":true
       },
       "Life and Death":{
@@ -5025,11 +5181,6 @@
       "Lost Patrol, The":{
         "url":"http://www.abandonia.com/en/games/922/Lost+Patrol%2C+The.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/922",
-        "downloadable":true
-      },
-      "Lost Tribe, The":{
-        "url":"http://www.abandonia.com/en/games/945/Lost+Tribe%2C+The.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/945",
         "downloadable":true
       },
       "Lunar Command":{
@@ -5062,6 +5213,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/920",
         "downloadable":true
       },
+      "Ocean Trader":{
+        "url":"http://www.abandonia.com/en/games/553/Ocean+Trader.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/553",
+        "downloadable":true
+      },
       "Oil Imperium":{
         "url":"http://www.abandonia.com/en/games/455/Oil+Imperium.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/455",
@@ -5083,8 +5239,7 @@
       },
       "Pirates Gold":{
         "url":"http://www.abandonia.com/en/games/134/Pirates+Gold.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/134",
-        "downloadable":true
+        "downloadable":false
       },
       "Pirates of the Barbary Coast":{
         "url":"http://www.abandonia.com/en/games/835/Pirates+of+the+Barbary+Coast.html",
@@ -5093,8 +5248,7 @@
       },
       "Pirates!":{
         "url":"http://www.abandonia.com/en/games/746/Pirates%21.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/746",
-        "downloadable":true
+        "downloadable":false
       },
       "Pizza Tycoon":{
         "url":"http://www.abandonia.com/en/games/105/Pizza+Tycoon.html",
@@ -5141,8 +5295,7 @@
       },
       "Seven Cities of Gold":{
         "url":"http://www.abandonia.com/en/games/318/Seven+Cities+of+Gold.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/318",
-        "downloadable":true
+        "downloadable":false
       },
       "Shadow President":{
         "url":"http://www.abandonia.com/en/games/579/Shadow+President.html",
@@ -5185,8 +5338,7 @@
       },
       "SimFarm":{
         "url":"http://www.abandonia.com/en/games/45/SimFarm.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/45",
-        "downloadable":true
+        "downloadable":false
       },
       "SimLife":{
         "url":"http://www.abandonia.com/en/games/4996/SimLife.html",
@@ -5196,11 +5348,6 @@
       "SimTower - The Vertical Empire":{
         "url":"http://www.abandonia.com/en/games/341/SimTower+-+The+Vertical+Empire.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/341",
-        "downloadable":true
-      },
-      "Space Rogue":{
-        "url":"http://www.abandonia.com/en/games/25004/Space+Rogue.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/25004",
         "downloadable":true
       },
       "Star Wars - X-Wing Collectors Edition":{
@@ -5223,18 +5370,20 @@
       },
       "Sword of the Samurai":{
         "url":"http://www.abandonia.com/en/games/264/Sword+of+the+Samurai.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/264",
-        "downloadable":true
+        "downloadable":false
       },
       "TFX - Tactical Fighter eXperiment":{
         "url":"http://www.abandonia.com/en/games/752/TFX+-+Tactical+Fighter+eXperiment.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/752",
         "downloadable":true
       },
+      "Theme Hospital":{
+        "url":"http://www.abandonia.com/en/games/30869/Theme+Hospital.html",
+        "downloadable":false
+      },
       "Theme Park":{
         "url":"http://www.abandonia.com/en/games/4753/Theme+Park.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/4753",
-        "downloadable":true
+        "downloadable":false
       },
       "Thunderhawk AH-73M":{
         "url":"http://www.abandonia.com/en/games/776/Thunderhawk+AH-73M.html",
@@ -5261,13 +5410,26 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/240",
         "downloadable":true
       },
-      "UMS - The Universal Military Simulator":{
-        "url":"http://www.abandonia.com/en/games/663/UMS+-+The+Universal+Military+Simulator.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/663",
+      "Uncharted Waters":{
+        "url":"http://www.abandonia.com/en/games/513/Uncharted+Waters.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/513",
+        "downloadable":true
+      },
+      "Uncharted Waters 2 - New Horizons":{
+        "url":"http://www.abandonia.com/en/games/276/Uncharted+Waters+2+-+New+Horizons.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/276",
         "downloadable":true
       },
       "Wing Commander":{
         "url":"http://www.abandonia.com/en/games/137/Wing+Commander.html",
+        "downloadable":false
+      },
+      "Wing Commander Academy":{
+        "url":"http://www.abandonia.com/en/games/26202/Wing+Commander+Academy.html",
+        "downloadable":false
+      },
+      "Wing Commander II - Vengeance of the Kilrathi":{
+        "url":"http://www.abandonia.com/en/games/25373/Wing+Commander+II+-+Vengeance+of+the+Kilrathi.html",
         "downloadable":false
       },
       "Wolf":{
@@ -5290,11 +5452,6 @@
   "Sports":{
     "url":"http://www.abandonia.com/en/game/Sports",
     "games":{
-      "1-0 Soccer Manager":{
-        "url":"http://www.abandonia.com/en/games/901/1-0+Soccer+Manager.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/901",
-        "downloadable":true
-      },
       "10th Frame":{
         "url":"http://www.abandonia.com/en/games/978/10th+Frame.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/978",
@@ -5374,19 +5531,14 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/158",
         "downloadable":true
       },
+      "Carl Lewis Go for the Gold":{
+        "url":"http://www.abandonia.com/en/games/30688/Carl+Lewis+Go+for+the+Gold.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30688",
+        "downloadable":true
+      },
       "Caveman Ugh-Lympics":{
         "url":"http://www.abandonia.com/en/games/219/Caveman+Ugh-Lympics.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/219",
-        "downloadable":true
-      },
-      "Championship Manager":{
-        "url":"http://www.abandonia.com/en/games/864/Championship+Manager.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/864",
-        "downloadable":true
-      },
-      "Crush! Deluxe":{
-        "url":"http://www.abandonia.com/en/games/29605/Crush%21+Deluxe.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/29605",
         "downloadable":true
       },
       "Double Dribble":{
@@ -5427,11 +5579,6 @@
       "Football Limited":{
         "url":"http://www.abandonia.com/en/games/787/Football+Limited.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/787",
-        "downloadable":true
-      },
-      "Football Manager 3":{
-        "url":"http://www.abandonia.com/en/games/792/Football+Manager+3.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/792",
         "downloadable":true
       },
       "Fuzzys World of Miniature Space Golf":{
@@ -5578,16 +5725,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/1021",
         "downloadable":true
       },
-      "Player Manager 2":{
-        "url":"http://www.abandonia.com/en/games/941/Player+Manager+2.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/941",
-        "downloadable":true
-      },
-      "Premier Manager 3":{
-        "url":"http://www.abandonia.com/en/games/23590/Premier+Manager+3.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/23590",
-        "downloadable":true
-      },
       "Reach Out For Gold":{
         "url":"http://www.abandonia.com/en/games/916/Reach+Out+For+Gold.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/916",
@@ -5678,13 +5815,8 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/838",
         "downloadable":true
       },
-      "Ultimate Soccer Manager 2":{
-        "url":"http://www.abandonia.com/en/games/278/Ultimate+Soccer+Manager+2.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/278",
-        "downloadable":true
-      },
-      "VR Soccer '96":{
-        "url":"http://www.abandonia.com/en/games/841/VR+Soccer+%2796.html",
+      "VR Soccer 96":{
+        "url":"http://www.abandonia.com/en/games/841/VR+Soccer+96.html",
         "downloadable":false
       },
       "Winter Games":{
@@ -5712,6 +5844,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/853",
         "downloadable":true
       },
+      "World Cup - All Time Greats":{
+        "url":"http://www.abandonia.com/en/games/31334/World+Cup+-+All+Time+Greats.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31334",
+        "downloadable":true
+      },
       "World Games":{
         "url":"http://www.abandonia.com/en/games/581/World+Games.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/581",
@@ -5727,6 +5864,11 @@
   "Strategy":{
     "url":"http://www.abandonia.com/en/game/Strategy",
     "games":{
+      "1-0 Soccer Manager":{
+        "url":"http://www.abandonia.com/en/games/901/1-0+Soccer+Manager.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/901",
+        "downloadable":true
+      },
       "1830 Railroads & Robber Barons":{
         "url":"http://www.abandonia.com/en/games/357/1830+Railroads+%2526+Robber+Barons.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/357",
@@ -5737,10 +5879,18 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/551",
         "downloadable":true
       },
+      "7 Colors":{
+        "url":"http://www.abandonia.com/en/games/888/7+Colors.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/888",
+        "downloadable":true
+      },
       "7th Legion":{
         "url":"http://www.abandonia.com/en/games/26170/7th+Legion.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/26170",
-        "downloadable":true
+        "downloadable":false
+      },
+      "Age of Wonders":{
+        "url":"http://www.abandonia.com/en/games/30794/Age+of+Wonders.html",
+        "downloadable":false
       },
       "Alien Legacy":{
         "url":"http://www.abandonia.com/en/games/27116/Alien+Legacy.html",
@@ -5750,6 +5900,16 @@
       "Ancient Art of War":{
         "url":"http://www.abandonia.com/en/games/404/Ancient+Art+of+War.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/404",
+        "downloadable":true
+      },
+      "Archon Ultra":{
+        "url":"http://www.abandonia.com/en/games/812/Archon+Ultra.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/812",
+        "downloadable":true
+      },
+      "Arnhem":{
+        "url":"http://www.abandonia.com/en/games/31306/Arnhem.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31306",
         "downloadable":true
       },
       "Ascendancy":{
@@ -5784,8 +5944,8 @@
         "url":"http://www.abandonia.com/en/games/452/Battle+Isle+2.html",
         "downloadable":false
       },
-      "Battle Isle 2 Scenery CD - Titan's Legacy":{
-        "url":"http://www.abandonia.com/en/games/25833/Battle+Isle+2+Scenery+CD+-+Titan%27s+Legacy.html",
+      "Battle Isle 2 Scenery CD - Titans Legacy":{
+        "url":"http://www.abandonia.com/en/games/25833/Battle+Isle+2+Scenery+CD+-+Titans+Legacy.html",
         "downloadable":false
       },
       "Battle Isle 93 - The Moon of Chromos":{
@@ -5802,14 +5962,14 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/30337",
         "downloadable":true
       },
+      "Battles of Napoleon":{
+        "url":"http://www.abandonia.com/en/games/31313/Battles+of+Napoleon.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31313",
+        "downloadable":true
+      },
       "BattleTech - The Crescent Hawks Revenge":{
         "url":"http://www.abandonia.com/en/games/977/BattleTech+-+The+Crescent+Hawks+Revenge.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/977",
-        "downloadable":true
-      },
-      "Blood and Magic":{
-        "url":"http://www.abandonia.com/en/games/28817/Blood+and+Magic.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/28817",
         "downloadable":true
       },
       "Burntime":{
@@ -5837,10 +5997,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/1027",
         "downloadable":true
       },
-      "Castles":{
-        "url":"http://www.abandonia.com/en/games/402/Castles.html",
-        "downloadable":false
-      },
       "Castles II - Siege and Conquest":{
         "url":"http://www.abandonia.com/en/games/190/Castles+II+-+Siege+and+Conquest.html",
         "downloadable":false
@@ -5865,10 +6021,14 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/576",
         "downloadable":true
       },
+      "Championship Manager":{
+        "url":"http://www.abandonia.com/en/games/864/Championship+Manager.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/864",
+        "downloadable":true
+      },
       "Chaos Overlords":{
         "url":"http://www.abandonia.com/en/games/339/Chaos+Overlords.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/339",
-        "downloadable":true
+        "downloadable":false
       },
       "Civil War, The":{
         "url":"http://www.abandonia.com/en/games/544/Civil+War%2C+The.html",
@@ -5884,6 +6044,11 @@
         "url":"http://www.abandonia.com/en/games/99/Civilization+II.html",
         "downloadable":false
       },
+      "CivNet":{
+        "url":"http://www.abandonia.com/en/games/31321/CivNet.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31321",
+        "downloadable":true
+      },
       "Clou 2 - The Sting!, The":{
         "url":"http://www.abandonia.com/en/games/401/Clou+2+-+The+Sting%21%2C+The.html",
         "downloadable":false
@@ -5895,8 +6060,7 @@
       },
       "Colonization":{
         "url":"http://www.abandonia.com/en/games/59/Colonization.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/59",
-        "downloadable":true
+        "downloadable":false
       },
       "Command & Conquer":{
         "url":"http://www.abandonia.com/en/games/378/Command+%2526+Conquer.html",
@@ -5918,6 +6082,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/3509",
         "downloadable":true
       },
+      "Conquest of Japan":{
+        "url":"http://www.abandonia.com/en/games/31324/Conquest+of+Japan.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31324",
+        "downloadable":true
+      },
       "Covert Action":{
         "url":"http://www.abandonia.com/en/games/139/Covert+Action.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/139",
@@ -5926,6 +6095,11 @@
       "Crisis in the Kremlin":{
         "url":"http://www.abandonia.com/en/games/25660/Crisis+in+the+Kremlin.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/25660",
+        "downloadable":true
+      },
+      "Cross Country Canada":{
+        "url":"http://www.abandonia.com/en/games/31419/Cross+Country+Canada.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31419",
         "downloadable":true
       },
       "Cyber Empires":{
@@ -5965,6 +6139,11 @@
       "Diggers 2 - Extractors":{
         "url":"http://www.abandonia.com/en/games/23844/Diggers+2+-+Extractors.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/23844",
+        "downloadable":true
+      },
+      "Discovery - In The Steps Of Columbus":{
+        "url":"http://www.abandonia.com/en/games/30786/Discovery+-+In+The+Steps+Of+Columbus.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30786",
         "downloadable":true
       },
       "Dominus":{
@@ -6022,10 +6201,14 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/140",
         "downloadable":true
       },
+      "Football Manager 3":{
+        "url":"http://www.abandonia.com/en/games/792/Football+Manager+3.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/792",
+        "downloadable":true
+      },
       "Fragile Allegiance":{
         "url":"http://www.abandonia.com/en/games/24546/Fragile+Allegiance.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/24546",
-        "downloadable":true
+        "downloadable":false
       },
       "Front Lines":{
         "url":"http://www.abandonia.com/en/games/500/Front+Lines.html",
@@ -6062,6 +6245,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/874",
         "downloadable":true
       },
+      "Halls of Montezuma":{
+        "url":"http://www.abandonia.com/en/games/766/Halls+of+Montezuma.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/766",
+        "downloadable":true
+      },
       "Hammer of the Gods":{
         "url":"http://www.abandonia.com/en/games/437/Hammer+of+the+Gods.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/437",
@@ -6090,11 +6278,6 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/138",
         "downloadable":true
       },
-      "High Seas Trader":{
-        "url":"http://www.abandonia.com/en/games/214/High+Seas+Trader.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/214",
-        "downloadable":true
-      },
       "History Line 1914-1918 (aka The Great War 1914-1918)":{
         "url":"http://www.abandonia.com/en/games/24938/History+Line+1914-1918+%28aka+The+Great+War+1914-1918%29.html",
         "downloadable":false
@@ -6106,8 +6289,7 @@
       },
       "Imperialism":{
         "url":"http://www.abandonia.com/en/games/26747/Imperialism.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/26747",
-        "downloadable":true
+        "downloadable":false
       },
       "Incubation - Time is Running Out":{
         "url":"http://www.abandonia.com/en/games/27642/Incubation+-+Time+is+Running+Out.html",
@@ -6126,11 +6308,6 @@
         "url":"http://www.abandonia.com/en/games/71/Jagged+Alliance+-+Deadly+Games.html",
         "downloadable":false
       },
-      "Jurassic War":{
-        "url":"http://www.abandonia.com/en/games/27890/Jurassic+War.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/27890",
-        "downloadable":true
-      },
       "King Arthurs K.O.R.T. Deluxe":{
         "url":"http://www.abandonia.com/en/games/28990/King+Arthurs+K.O.R.T.+Deluxe.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/28990",
@@ -6146,8 +6323,8 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/151",
         "downloadable":true
       },
-      "L'Empereur":{
-        "url":"http://www.abandonia.com/en/games/506/L%27Empereur.html",
+      "L Empereur":{
+        "url":"http://www.abandonia.com/en/games/506/L+Empereur.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/506",
         "downloadable":true
       },
@@ -6170,6 +6347,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/759",
         "downloadable":true
       },
+      "Lost Tribe, The":{
+        "url":"http://www.abandonia.com/en/games/945/Lost+Tribe%2C+The.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/945",
+        "downloadable":true
+      },
       "M.A.X. - Mechanized Assault and Exploration":{
         "url":"http://www.abandonia.com/en/games/964/M.A.X.+-+Mechanized+Assault+and+Exploration.html",
         "downloadable":false
@@ -6181,7 +6363,8 @@
       },
       "Magic & Mayhem":{
         "url":"http://www.abandonia.com/en/games/26088/Magic+%2526+Mayhem.html",
-        "downloadable":false
+        "download_url":"http://www.abandonia.com/en/downloadgame/26088",
+        "downloadable":true
       },
       "Master of Magic":{
         "url":"http://www.abandonia.com/en/games/189/Master+of+Magic.html",
@@ -6211,29 +6394,19 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/216",
         "downloadable":true
       },
-      "Night Raid":{
-        "url":"http://www.abandonia.com/en/games/845/Night+Raid.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/845",
-        "downloadable":true
-      },
-      "Nobunaga's Ambition":{
-        "url":"http://www.abandonia.com/en/games/508/Nobunaga%27s+Ambition.html",
+      "Nobunagas Ambition":{
+        "url":"http://www.abandonia.com/en/games/508/Nobunagas+Ambition.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/508",
         "downloadable":true
       },
-      "Nobunaga's Ambition II":{
-        "url":"http://www.abandonia.com/en/games/509/Nobunaga%27s+Ambition+II.html",
+      "Nobunagas Ambition II":{
+        "url":"http://www.abandonia.com/en/games/509/Nobunagas+Ambition+II.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/509",
         "downloadable":true
       },
       "North & South":{
         "url":"http://www.abandonia.com/en/games/262/North+%2526+South.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/262",
-        "downloadable":true
-      },
-      "Ocean Trader":{
-        "url":"http://www.abandonia.com/en/games/553/Ocean+Trader.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/553",
         "downloadable":true
       },
       "Offensive":{
@@ -6256,6 +6429,11 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/25212",
         "downloadable":true
       },
+      "Panzer Battles":{
+        "url":"http://www.abandonia.com/en/games/31308/Panzer+Battles.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/31308",
+        "downloadable":true
+      },
       "Panzer General":{
         "url":"http://www.abandonia.com/en/games/258/Panzer+General.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/258",
@@ -6269,6 +6447,11 @@
       "Pilgrim Quest":{
         "url":"http://www.abandonia.com/en/games/905/Pilgrim+Quest.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/905",
+        "downloadable":true
+      },
+      "Player Manager 2":{
+        "url":"http://www.abandonia.com/en/games/941/Player+Manager+2.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/941",
         "downloadable":true
       },
       "Populous":{
@@ -6287,6 +6470,11 @@
       "Powermonger":{
         "url":"http://www.abandonia.com/en/games/444/Powermonger.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/444",
+        "downloadable":true
+      },
+      "Premier Manager 3":{
+        "url":"http://www.abandonia.com/en/games/23590/Premier+Manager+3.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/23590",
         "downloadable":true
       },
       "Realms":{
@@ -6446,19 +6634,19 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/734",
         "downloadable":true
       },
+      "Ultimate Soccer Manager 2":{
+        "url":"http://www.abandonia.com/en/games/278/Ultimate+Soccer+Manager+2.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/278",
+        "downloadable":true
+      },
+      "UMS - The Universal Military Simulator":{
+        "url":"http://www.abandonia.com/en/games/663/UMS+-+The+Universal+Military+Simulator.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/663",
+        "downloadable":true
+      },
       "UMS II - Nations at War":{
         "url":"http://www.abandonia.com/en/games/668/UMS+II+-+Nations+at+War.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/668",
-        "downloadable":true
-      },
-      "Uncharted Waters":{
-        "url":"http://www.abandonia.com/en/games/513/Uncharted+Waters.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/513",
-        "downloadable":true
-      },
-      "Uncharted Waters 2 - New Horizons":{
-        "url":"http://www.abandonia.com/en/games/276/Uncharted+Waters+2+-+New+Horizons.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/276",
         "downloadable":true
       },
       "Utopia - The Creation of a Nation":{
@@ -6471,14 +6659,14 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/646",
         "downloadable":true
       },
+      "Visions of Aftermath - The Boomtown":{
+        "url":"http://www.abandonia.com/en/games/27805/Visions+of+Aftermath+-+The+Boomtown.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/27805",
+        "downloadable":true
+      },
       "Walls of Rome":{
         "url":"http://www.abandonia.com/en/games/844/Walls+of+Rome.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/844",
-        "downloadable":true
-      },
-      "War Diary":{
-        "url":"http://www.abandonia.com/en/games/24066/War+Diary.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/24066",
         "downloadable":true
       },
       "War Wind":{
@@ -6489,6 +6677,11 @@
       "Warcraft - Orcs and Humans":{
         "url":"http://www.abandonia.com/en/games/422/Warcraft+-+Orcs+and+Humans.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/422",
+        "downloadable":true
+      },
+      "Warcraft II":{
+        "url":"http://www.abandonia.com/en/games/30996/Warcraft+II.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30996",
         "downloadable":true
       },
       "Warhammer - Shadow of the Horned Rat":{
@@ -6532,11 +6725,6 @@
   "Unsorted":{
     "url":"http://www.abandonia.com/en/game/Unsorted",
     "games":{
-      "Adventures in Math":{
-        "url":"http://www.abandonia.com/en/games/27111/Adventures+in+Math.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/27111",
-        "downloadable":true
-      },
       "Animal Math":{
         "url":"http://www.abandonia.com/en/games/25142/Animal+Math.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/25142",
@@ -6545,11 +6733,6 @@
       "Chadwick and the Sneaky Egg Thief":{
         "url":"http://www.abandonia.com/en/games/1037/Chadwick+and+the+Sneaky+Egg+Thief.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/1037",
-        "downloadable":true
-      },
-      "Dinosaur Safari":{
-        "url":"http://www.abandonia.com/en/games/939/Dinosaur+Safari.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/939",
         "downloadable":true
       },
       "Donald Ducks Playground":{
@@ -6586,8 +6769,8 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/911",
         "downloadable":true
       },
-      "Ping & Kooky's Cuckoo Zoo":{
-        "url":"http://www.abandonia.com/en/games/25139/Ping+%2526+Kooky%27s+Cuckoo+Zoo.html",
+      "Ping & Kookys Cuckoo Zoo":{
+        "url":"http://www.abandonia.com/en/games/25139/Ping+%2526+Kookys+Cuckoo+Zoo.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/25139",
         "downloadable":true
       },
@@ -6596,14 +6779,14 @@
         "download_url":"http://www.abandonia.com/en/downloadgame/411",
         "downloadable":true
       },
+      "Playskool Puzzles":{
+        "url":"http://www.abandonia.com/en/games/30449/Playskool+Puzzles.html",
+        "download_url":"http://www.abandonia.com/en/downloadgame/30449",
+        "downloadable":true
+      },
       "Race the Nags":{
         "url":"http://www.abandonia.com/en/games/639/Race+the+Nags.html",
         "download_url":"http://www.abandonia.com/en/downloadgame/639",
-        "downloadable":true
-      },
-      "School Bus Driver":{
-        "url":"http://www.abandonia.com/en/games/25137/School+Bus+Driver.html",
-        "download_url":"http://www.abandonia.com/en/downloadgame/25137",
         "downloadable":true
       }
     }

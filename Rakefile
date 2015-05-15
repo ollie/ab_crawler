@@ -1,110 +1,111 @@
 require 'bundler'
 Bundler.require
 
-require './lib/ab_crawler'
-require './lib/ab_downloader'
-require 'fileutils'
+desc 'Start a console'
+task :console do
+  require 'pry'
+  require_relative 'lib/crawler'
+  require_relative 'lib/downloader'
 
-desc 'Create new JSON index file and save it to ./indexes/index_YYYYMMDDHHMMSS.json.'
-task :index do
-  c        = AbCrawler.new
-  c.dryrun = false
-  c.uri    = 'http://www.abandonia.com/'
-  c.open_log
-  c.crawl
-  c.close_log
+  Pry.start
 end
 
-desc "Downloads games that aren't already downloaded, for example rake download INDEX=20110807120722."
+desc 'Create new JSON index file and save it to ' \
+     'indexes/index_YYYYMMDDHHMMSS.json'
+task :index do
+  require_relative 'lib/crawler'
+
+  Crawler.new
+end
+
+desc 'Continue working last index or specify one with INDEX=path/to/index.json'
+task :continue do
+  require_relative 'lib/crawler'
+
+  puts "Continuing #{ index_path }"
+  Crawler::DownloadsFinder.new(index_path).find
+end
+
+desc 'Downloads missing games from last index ' \
+     'or specify one with INDEX=path/to/index.json'
 task :download do
-  d        = AbDownloader.new
-  d.dryrun = false
-  d.uri    = 'http://www.abandonia.com/'
-  d.index  = "index_#{ ENV['INDEX'] }.json"
-  d.open_log
-  d.download
-  d.close_log
+  require_relative 'lib/downloader'
+
+  puts "Downloading #{ index_path }"
+  Downloader.new(index_path).download
+end
+
+# Return path to the latest index, or if INDEX was found in ENV, use that.
+# Make sure it exists, too.
+#
+# @return [String]
+def index_path
+  @index_path ||= begin
+    index_path = ENV['INDEX']
+    index_path = Dir['indexes/*.json'].sort.last if index_path.blank?
+    abort 'Need an INDEX=indexes/some_index.json'  if index_path.blank?
+    abort "#{ index_path } is not a file" unless File.file?(index_path)
+    index_path
+  end
 end
 
 desc 'Find duplicates and remove them, use DRYRUN=0 to really delete.'
 task :duplicates do
-  all_game_paths = []
+  require_relative 'lib/helpers'
 
-  latest_index_file = Dir['indexes/*.json'].sort.last
-  categories        = JSON.parse File.open(latest_index_file, 'r').read
+  games_in_index = []
+  games_found    = []
+  data           = JSON.parse(File.open(index_path, 'r').read)
 
-  categories.each do |category_name, category_options|
-    category_path = File.join('games', category_name)
+  data.each do |category_name, category_options|
+    category_path = Helpers::GAMES_DIR.join(category_name)
 
-    category_options['games'].each do |game_name, _game_options|
-      output_file_name = AbDownloader.saveable_file_name(game_name)
-      output_file_path = File.join(category_path, output_file_name)
+    category_options['games'].each do |game_name, game|
+      next unless game.fetch('downloadable')
 
-      all_game_paths << output_file_path
+      output_file_name = Helpers.sanitize_file_name(game_name)
+      output_file_path = category_path.join(output_file_name)
+
+      games_in_index << output_file_path.to_s
     end
   end
 
   stats = {}
-  files = Dir['games/**/*.zip']
-  files.each do |file|
-    game          = File.basename(file)
-    stats[game] ||= []
-    stats[game] << file
+
+  Dir['games/**/*.zip'].each do |file_path|
+    game_name          = File.basename(file_path)
+    stats[game_name] ||= []
+    stats[game_name] << file_path
+    games_found      << file_path
   end
 
-  # stats will now be array!
-  stats      = stats.sort { |a, b| b[1].size <=> a[1].size }
-  duplicates = stats.select { |stat| stat[1].size > 1 }
+  # games_missing      = games_in_index - games_found
+  # games_not_in_index = games_found - games_in_index
+  duplicates         = stats.select { |_, files| files.size > 1 }
 
-  unless duplicates.empty?
-    longest_name = duplicates.max_by { |stat| stat[0].length }[0].length
+  exit if duplicates.empty?
 
-    duplicates.each do |stat|
-      line = "#{ stat[0].ljust longest_name } #{ stat[1].size }"
-      puts line
-      puts '-' * line.length
-      stat[1].each do |game_path|
-        if all_game_paths.include?(game_path)
-          puts Rainbow("#{ game_path } (#{ File.size(game_path) } B)").green
+  duplicates.each do |game_name, files|
+    line = "#{ game_name } #{ files.size }"
+    puts line
+    puts '-' * line.length
+
+    files.each do |game_path|
+      message = "#{ game_path } (#{ File.size(game_path) } B)"
+
+      if games_in_index.include?(game_path)
+        puts Rainbow(message).green
+      else
+        puts Rainbow(message).red
+
+        if ENV['DRYRUN'] == '0'
+          FileUtils.rm(game_path, verbose: true)
         else
-          puts Rainbow("#{ game_path } (#{ File.size(game_path) } B)").red
-          if ENV['DRYRUN'] == '0'
-            FileUtils.rm(game_path, verbose: true)
-          else
-            FileUtils::DryRun.rm(game_path, verbose: true)
-          end
+          FileUtils::DryRun.rm(game_path, verbose: true)
         end
       end
-      puts
-    end
-  end
-end
-
-namespace :log do
-  desc 'Diff two logs. For example rake log:diff TOOL=meld FILE1=./indexes/index_20110228005550.log FILE2=./indexes/index_20110527123321.log.'
-  task :diff do
-    rm_r './tmp', verbose: true if File.directory?('./tmp')
-    mkdir './tmp', verbose: true unless File.directory?('./tmp')
-    tool  = ENV['TOOL'] || 'diff -u'
-    file1 = ENV['FILE1']
-    file2 = ENV['FILE2']
-    tmp_logs = []
-
-    if file1 && file2
-      logs = [file1, file2]
-    else
-      all_logs = Dir.glob('./indexes/*.log').sort
-      logs = [all_logs.pop, all_logs.pop].reverse
     end
 
-    logs.each do |filepath|
-      tmppath = filepath.gsub('indexes', 'tmp')
-      tmp_logs << tmppath
-      File.open(tmppath, 'w') do |file|
-        puts "Saving diff to #{ tmppath }"
-        file << File.read(filepath).split("\n").map { |line| line unless line.match(/^Waiting.*/) }.delete_if { |item| item.nil? }.join("\n")
-      end
-    end
-    sh "#{ tool } #{ tmp_logs.join ' ' }"
+    puts
   end
 end

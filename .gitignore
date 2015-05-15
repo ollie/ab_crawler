@@ -1,4 +1,5 @@
-.rvmrc
+/.yardoc
+/doc
 /games/**/
 /games/*.log
 /indexes/*.log
