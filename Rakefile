@@ -49,8 +49,8 @@ end
 def index_path
   @index_path ||= begin
     index_path = ENV['INDEX']
-    index_path = Dir['indexes/*.json'].sort.last if index_path.blank?
-    abort 'Need an INDEX=indexes/some_index.json'  if index_path.blank?
+    index_path = Dir['indexes/*.json'].sort.last  if index_path.blank?
+    abort 'Need an INDEX=indexes/some_index.json' if index_path.blank?
     abort "#{ index_path } is not a file" unless File.file?(index_path)
     index_path
   end
